@@ -1,5 +1,5 @@
 # Intro-PythonMath-2020
-Scattered assignments fom a UCSD class (2020) in which we learned to use mathematical packages in Python.
+Scattered assignments fom a UCSD class (2020) in which we learned to use mathematical packages (mostly SageMath) in Python.
 
 Quick breakdown: 
  * Assignment 2 - Learning how to use SageMath for Taylor polynomials and integration. Introduction to dictionaries. 
